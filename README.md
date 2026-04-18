@@ -1,13 +1,13 @@
-# 📊 Instagram Growth Analytics Project
+ 📊 Instagram Growth Analytics Project
 
-## 🚀 Project Overview
+🚀 Project Overview
 This project analyzes Instagram performance data to understand how content strategy impacts reach, engagement, and growth.
 
 Achieved ~2 Million views in 30 days organically using data-driven decisions.
 
 ---
 
-## 🎯 Problem Statement
+🎯 Problem Statement
 Growing an Instagram page organically is challenging due to:
 - High competition  
 - Algorithm dependency  
@@ -15,7 +15,7 @@ Growing an Instagram page organically is challenging due to:
 
 ---
 
-## 🎯 Objective
+🎯 Objective
 - Analyze content performance  
 - Identify growth patterns  
 - Optimize engagement strategy  
@@ -23,7 +23,7 @@ Growing an Instagram page organically is challenging due to:
 
 ---
 
-## 📂 Dataset
+📂 Dataset
 - Total Views: 1,991,642  
 - Accounts Reached: 1,208,961 (+4903%)  
 - Interactions: 19,746  
@@ -32,46 +32,46 @@ Growing an Instagram page organically is challenging due to:
 
 ---
 
-## 🛠 Tools Used
+🛠 Tools Used
 - Excel  
 - Power BI  
 - Data Analysis  
 
 ---
 
-## 📊 Key Metrics
+📊 Key Metrics
 - Engagement Rate ≈ 1.63%  
 - Follower Conversion Rate ≈ 0.02%  
 - Reels Contribution: 100%  
 
 ---
 
-## 📈 Data Analysis
+📈 Data Analysis
 
-### 🔹 Content Performance
+🔹 Content Performance
 - Top-performing reel: 626K views
 - Majority of reach driven by a few viral posts
 
-### 🔹 Audience Behavior
+🔹 Audience Behavior
 - 99.8% reach from non-followers
 - Strong algorithm-based discovery
 
-### 🔹 Engagement Insights
+🔹 Engagement Insights
 - Saves: 2,411
 - Shares: 983
 → Indicates high-value and viral content
 
-### 🔹 Timing Analysis
+🔹 Timing Analysis
 - Best posting time: 6 PM – 9 PM
 
-### 🔹 Audience Demographics
+🔹 Audience Demographics
 - USA: 23.2%  
 - India: 17.7%  
 - Age group 18–34 dominates  
 
 ---
 
-## 📊 Visualizations
+📊 Visualizations
 
 ![KPI Metrics](./KPI%20Metrics.png)
 ![Funnel](./Funnel.png)
@@ -81,7 +81,7 @@ Growing an Instagram page organically is challenging due to:
 
 ---
 
-## 🔍 Insights
+🔍 Insights
 - Viral growth comes from a small number of high-performing posts  
 - Reels are the primary growth driver  
 - High saves indicate strong content value  
@@ -89,7 +89,7 @@ Growing an Instagram page organically is challenging due to:
 
 ---
 
-## ⚡ Actions Taken
+⚡ Actions Taken
 - Focused on reels  
 - Used strong hooks in first 3 seconds  
 - Posted during peak hours  
@@ -97,7 +97,7 @@ Growing an Instagram page organically is challenging due to:
 
 ---
 
-## 📈 Results
+📈 Results
 - 🚀 1.99M+ Views in 30 days  
 - 📈 +4903% Reach Growth  
 - 👥 1.2M Accounts Reached  
@@ -105,7 +105,7 @@ Growing an Instagram page organically is challenging due to:
 
 ---
 
-## 💼 Business Impact
+💼 Business Impact
 This project demonstrates:
 - Data-driven decision making  
 - Growth optimization using analytics  
@@ -114,7 +114,7 @@ This project demonstrates:
 
 ---
 
-## 🔮 Future Improvements
+🔮 Future Improvements
 - Build Power BI dashboard  
 - Use Python for advanced analysis  
 - Apply A/B testing on content  
