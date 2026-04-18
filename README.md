@@ -73,11 +73,11 @@ Growing an Instagram page organically is challenging due to:
 
 ## 📊 Visualizations
 
-KPI Metrics
-Funnel
-Top Reels
-Country Distribution
-Age Distribution
+![KPI Metrics](./KPI%20Metrics.png)
+![Funnel](./Funnel.png)
+![Top Reels](./Top%20Reels.png)
+![Country Distribution](./Country%20Distribution.png)
+![Age Distribution](./Age%20Distribution.png)
 
 ---
 
