@@ -113,6 +113,12 @@ This project demonstrates:
 
 ---
 
+📊 Power BI Dashboard Preview
+
+![Dashboard](./Dashboard.png)
+
+---
+
 🔮 Future Improvements
 - Build Power BI dashboard  
 - Use Python for advanced analysis  
