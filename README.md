@@ -24,11 +24,10 @@ Growing an Instagram page organically is challenging due to:
 ---
 
 📂 Dataset
-- Total Views: 1,991,642  
-- Accounts Reached: 1,208,961 (+4903%)  
-- Interactions: 19,746  
-- Followers gained: 263  
-- Total Posts: 87  
+
+This dataset contains Instagram performance metrics used for analysis.
+
+[Download Dataset](./Instagram%20Data.csv)
 
 ---
 
